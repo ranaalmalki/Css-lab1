@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h1{
+
+    
+    
+    border: 1rem solid black;
+    background-color: rgb(12, 204, 218);
+}
+
+ul{
+    list-style: none;
+    font-size: medium;
+}
+
+a{
+    border{
+    
+    }
+}
+ body{
+   background-image:url(https://img.freepik.com/free-vector/abstract-light-blue-polygonal-background_1055-2683.jpg?t=st=1724921286~exp=1724924886~hmac=4da2e8f2f27ab4cbbe0b57ac593c409403cb78a97d3a31bb86569ffb7a25809e&w=826) ;
+        background-repeat: no-repeat;
+        background-size: cover;
+   
+ }
+
+
+ 
