@@ -7,7 +7,7 @@ h1{
 
     
     
-    border: 1px solid black;
+    border: 1rem solid black;
     background-color: rgb(12, 204, 218);
 }
 
@@ -27,6 +27,6 @@ a{
         background-size: cover;
    
  }
- 
+
 
  
